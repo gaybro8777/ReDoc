@@ -2479,8 +2479,8 @@ json-loader@^0.5.4:
   resolved "https://registry.yarnpkg.com/json-loader/-/json-loader-0.5.4.tgz#8baa1365a632f58a3c46d20175fc6002c96e37de"
 
 json-pointer@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/json-pointer/-/json-pointer-0.6.0.tgz#8e500550a6aac5464a473377da57aa6cc22828d7"
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/json-pointer/-/json-pointer-0.6.1.tgz#3c6caa6ac139e2599f5a1659d39852154015054d"
   dependencies:
     foreach "^2.0.4"
 
